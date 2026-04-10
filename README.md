@@ -58,6 +58,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+** Nama : Putri Marlinna </br>
+** NIM : 24.12.3283 </br>
+** Link **
 Nama : Putri Marlinna
 Kelas : SI 04
 Link
