@@ -61,6 +61,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ** Nama : Putri Marlinna </br>
 ** NIM : 24.12.3283 </br>
 ** Link **
-Nama : Putri Marlinna
-Kelas : SI 04
-Link
