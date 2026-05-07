@@ -58,11 +58,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-<div style="padding:20px; border-radius:10px; background-color:#f4f4f4; text-align:center;">
-  <p><b>Nama:</b> Putri Marlinna Kusumawardani</p>
-  <p><b>NIM:</b> 24.12.3283</p>
-  <p><b>Kelas:</b> SI 04</p>
-  <p><b>Jurusan:</b> Sistem Informasi</p>
+## 
+
+<div style="border:1px solid gray; padding:15px; border-radius:10px; width:300px;">
+    <p>Nama : Putri Marlina Kusumawardani</p>
+    <p>NIM : 24.12.3283</p>
+    <p>Kelas : SI 04</p>
+    <p>Jurusan : Sistem Informasi</p>
 </div>
 
- <a href="https://github.com/"></a>
+##
+
+<a href="https://github.com/">
+Klik Untuk Membuka Dashboard
+</a>
