@@ -67,8 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
     <p>Jurusan : Sistem Informasi</p>
 </div>
 
-##
+## Tugas 1
 
-<a href="https://github.com/">
-Klik Untuk Membuka Dashboard
-</a>
+Dashboard Event :<a href="https://github.com/">Dashboard Event</a>
