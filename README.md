@@ -68,7 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 </div>
 
 ## Tugas 1
-Repository: <a href="https://github.com/amikomeventhub-3283/24-12-3283_TugasGit_DB.git"></a>
+Repository:<a href="https://github.com/amikomeventhub-3283/24-12-3283_TugasGit_DB.git"></a>
 Laporan :<a href="https://docs.google.com/document/d/1QHK3uwqzr_ZdIJiSmKk0t3w9NEVqgp0X38lqQRKwd_g/edit?usp=sharing"></a>
 ## Tugas 2
 
