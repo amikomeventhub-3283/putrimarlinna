@@ -69,8 +69,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Tugas 1
 
-Dashboard Event :<a href="https://github.com/">Dashboard Event</a>
-
 ## Tugas 2
 
 ## Tugas 3
